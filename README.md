@@ -1,3 +1,4 @@
+![logo](banner.png)
 <h1 align="center">Hi 👋, I'm Gaurav Bharane</h1>
 <h3 align="center">I am a qualified and professional Frontend web developer with a experience in Redhat Linux administration. looking forward for my Devops journey.</h3>
 

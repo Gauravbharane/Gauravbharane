@@ -7,8 +7,8 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"/>
 <br/>
 
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
+  <h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://twitter.com/gaurav_bharane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurav_bharane" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav-bharane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-bharane" height="30" width="40" /></a>
 <a href="https://medium.com/@gauravbharane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gauravbharane" height="30" width="40" /></a>

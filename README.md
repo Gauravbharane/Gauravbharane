@@ -3,9 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravbharane&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbharane" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravbharane" alt="gauravbharane" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gaurav_bharane" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav_bharane?logo=twitter&style=for-the-badge" alt="gaurav_bharane" /></a> </p>
 

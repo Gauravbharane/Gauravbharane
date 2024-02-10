@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Bharane</h1>
 <h3 align="center">I am a qualified and professional Frontend web developer with a experience in Redhat Linux administration. looking forward for my Devops journey.</h3>
-
+<br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"/>
-
+<br/>
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,10 +14,9 @@
 <a href="https://medium.com/@gauravbharane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gauravbharane" height="30" width="40" /></a>
 </p>
 
+<br/>
 
 
-<br/>
-<br/>
 - 🔭 I’m currently working on [Artnation](https://github.com/Gauravbharane/Artnation.git)
 
 - 🌱 I’m currently learning **React, Terraform, AWS, CHEF, Jenkins**

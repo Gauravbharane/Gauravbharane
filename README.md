@@ -126,11 +126,4 @@
                   <li>Prompt engg.</li>
                   <li>Ai image Artist</li>
                 </ul>
-              </p>
-              
-            </div>
-          </div>
-        </div>
-        </div>  
-      </div>
-    </section><!-- End Facts Section -->
+           

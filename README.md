@@ -7,11 +7,6 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"/>
 
 
-
-<p align="left"> <a href="https://www.linkedin.com/in/gaurav-bharane" target="blank">
-  <a href="https://linkedin.com/in/gaurav-bharane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-bharane" height="30" width="40" />
-  Connect on Linkedin Gaurav Bharane</a> </p>
-
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gaurav_bharane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurav_bharane" height="30" width="40" /></a>

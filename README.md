@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaurav Bharane</h1>
 <h3 align="center">I am a qualified and professional Frontend web developer with a experience in Redhat Linux administration. looking forward for my Devops journey.</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravbharane&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbharane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravbharane" alt="gauravbharane" /></a> </p>

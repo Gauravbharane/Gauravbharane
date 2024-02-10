@@ -1,15 +1,6 @@
 ![logo](banner.png)
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 <h1 align="center">Hi 👋, I'm Gaurav Bharane</h1>
 <h3 align="center">I am a qualified and professional Frontend web developer with a experience in Redhat Linux administration. looking forward for my Devops journey.</h3>
 
@@ -17,7 +8,9 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/gaurav_bharane" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav_bharane?logo=twitter&style=for-the-badge" alt="gaurav_bharane" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/gaurav-bharane" target="blank">
+  <a href="https://linkedin.com/in/gaurav-bharane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-bharane" height="30" width="40" /></a>
+  Connect on Linkedin Gaurav Bharane</a> </p>
 
 - 🔭 I’m currently working on [Artnation](https://github.com/Gauravbharane/Artnation.git)
 
@@ -48,82 +41,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravbharane&show_icons=true&locale=en" alt="gauravbharane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravbharane&" alt="gauravbharane" /></p>
-
-
- <!-- ======= Facts Section ======= -->
-    <section id="facts" class="facts">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Highlights</h2>
-          <p><i>"Goal without plan is only a Dream"</i></p>
-        </div>
-        <div class="card-group">
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title"> programming Langauges</h5>
-              <p class="card-text">
-                <small></small> 
-                <ul>
-                <li>C / C++</li>
-                <LI>Java</LI>
-                <LI>Python</LI>
-                <LI>SQL</LI>
-                <LI>PHP</LI>
-                <LI>HTML / CSS </LI>
-                <LI>JavaScript</LI>
-              </ul></p>
-              <p class="card-text"><small class="text-muted">Working on more!</small></p>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">DevOps Tools </h5>
-              <p class="card-text">
-                <small></small> 
-                <ul>
-                  <li> Redhat / Linux / CentOS /</li>
-                  <li>Ansible</li>
-                  <li>Terraform</li>
-                  <li>Git / Github </li>
-                  <li>Cloud: Linode</li>
-                  <li>Containers: Docker / Podman</li>
-                 
-                </ul></p>   
-              </p>
-              <p class="card-text"><small class="text-muted">Working on more!</small></p>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">Global Certifications</h5>
-              <p class="card-text"> <small></small>
-                
-                <ul>
-                  <li>RHCSA</li>
-                  <li>RHCE </li>
-                  <li>Oracle Java </li>
-                  <li>Generative AI</li>
-                  <li>Google Digital Marketing</li>
-                 
-                </ul>
-
-              </p>
-              
-              <p class="card-text"><small class="text-muted">Working on more!
-              </small></p>
-            </div>
-          </div>
-
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">Other</h5>
-              <p class="card-text">
-                <small></small>
-                <ul>
-                  <li>Freelancer on fiverr</li>
-                  <li>Youtuber</li>
-                  <li>Prompt engg.</li>
-                  <li>Ai image Artist</li>
-                </ul>
-           
